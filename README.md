@@ -18,6 +18,7 @@
   Clone the Repository:
 
   git clone <https://github.com/SzekelyBoti/terraform-aws-webapp.git>
+  
   cd <terraform-aws-webapp>
 
   Update Configuration: Modify the main.tf file to reflect your desired configurations, including the appropriate AMI ID and instance type.
